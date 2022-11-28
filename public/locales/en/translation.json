@@ -1,29 +1,29 @@
 {
     "header": {
-        "link1": "Женщины",
-        "link2": "Мужчины",
-        "link3": "О нас",
-        "link4": "Поиск"
+        "link1": "Womens",
+        "link2": "Mens",
+        "link3": "about us",
+        "link4": "Search"
     },
     "begin": {
-        "title": "Бренд",
-        "subtitle": "Смотреть коллекцию"
+        "title": "Brend",
+        "subtitle": "See colection"
     },
     "collection": {
-        "leftTitle": "Новое поступление",
+        "leftTitle": "New arrival",
         "leftDescryption": "Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ipLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ip",
-        "leftLink": "Смотреть колекцию",
+        "leftLink": "See colection",
         "rightDescryption": "Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ip"
     },
     "populary": {
-        "title": "Популярное",
+        "title": "popular",
         "cardTitle": "replay",
-        "cardDescryption": "Классическая обувь",
+        "cardDescryption": "Classic Shpoes",
         "cardPrice": "3800uan",
         "cardOldprice": "6100uan"
     },
     "about" : {
-        "title": "О нас",
+        "title": "about us",
         "descryption": "Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLoreLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumipLorem ipsumLoremLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipLorem ipsumLorem ipsumLorem ipsumLorem"
     }
 }
